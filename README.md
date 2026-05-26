@@ -22,7 +22,4 @@ I like building practical products that feel fast, clean, and useful — from ec
 
 ```txt
 AI + Commerce + Automation + Clean UX
-<!---
-gghostx/gghostx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
